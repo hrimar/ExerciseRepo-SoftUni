@@ -1,4 +1,5 @@
 # ExerciseRepo-SoftUni
-Repo made for exercises
-We resolved the conflict!
+This projecy will contain also new brances...
+Repo made for exercises.
+Hello, again!
 
