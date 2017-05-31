@@ -1,3 +1,5 @@
+using Systems;
+Console.WriteLine("super");
 try
             {
                 var input = int.Parse(Console.ReadLine());
