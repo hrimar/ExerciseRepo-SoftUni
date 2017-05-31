@@ -1,1 +1,1 @@
-A new developer "H" will bould new branch!
+A developer will make new branch with name dev.
