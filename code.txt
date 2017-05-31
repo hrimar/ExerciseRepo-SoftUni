@@ -1,1 +1,10 @@
-using Systems;
+try
+            {
+                var input = int.Parse(Console.ReadLine());
+                Console.WriteLine("It is a number.");
+            }
+            catch
+            {
+                Console.WriteLine("Invalid input!");
+            }
+

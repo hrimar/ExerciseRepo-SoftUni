@@ -1,1 +1,4 @@
-A developer will make new branch with name dev.
+A developer will make new branch with name dev...
+
+The new branch name is "dev".
+(this changes were made from master branch)
